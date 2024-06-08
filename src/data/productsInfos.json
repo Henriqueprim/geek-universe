@@ -1,0 +1,262 @@
+[
+    {
+        "name": "SketchBook Nekomancy",
+        "price": 19.99,
+        "category": "Acessorios",	
+        "description": "SketchBook Nekomancy é um sketchbook de 100 folhas, com capa dura e elástico para fechamento. Ideal para desenhar, escrever, fazer anotações e muito mais!",
+        "path": "/images/Acessorios/bookNekomancy.webp"
+    },
+    {
+        "name": "SketchBook Nightmare",
+        "price": 12.99,
+        "category": "Acessorios",
+        "description": "SketchBook Nightmare é um sketchbook de 100 folhas, com capa dura e elástico para fechamento. Ideal para desenhar, escrever, fazer anotações e muito mais!",
+        "path": "/images/Acessorios/bookNightmare.webp"
+    },
+    {
+        "name": "Pokemon Cup",
+        "price": 8.99,
+        "category": "Acessorios",
+        "description": "Pokemon Cup é um copo de 350ml preto com estampa de pokemon. Ideal para tomar café, chá, água e muito mais!",
+        "path": "/images/Acessorios/cupPokemon.webp"
+    },
+    {
+        "name": "Ghibli Magnets",
+        "price": 13.99,
+        "category": "Acessorios",
+        "description": "Ghibli Magnets é um conjunto de 11 imãs com estampas de personagens do Studio Ghibli. Ideal para decorar sua geladeira, armário e muito mais!",
+        "path": "/images/Acessorios/magnetsGhibli.webp"
+    },
+    {
+        "name": "Stitch Cup",
+        "price": 8.99,
+        "category": "Acessorios",
+        "description": "Stitch Cup é um copo de 400ml azul transparente com estampa de stitch. Ideal para tomar água, sucos e bebidas geladas!",
+        "path": "/images/Acessorios/cupStitch.webp"
+    },
+    {
+        "name": "Pokemon Magnets",
+        "price": 10.99,
+        "category": "Acessorios",
+        "description": "Pokemon Magnets é um conjunto de  imãs com estampas de pokegochis. Ideal para decorar sua geladeira, armário e muito mais!",
+        "path": "/images/Acessorios/magnetsPokemon.webp"
+    },
+    {
+        "name": "Witch Magnets",
+        "price": 10.99,
+        "category": "Acessorios",
+        "description": "Witch Magnets é um conjunto de 8 imãs com estampas de itens de bruxaria. Ideal para decorar sua geladeira, armário e muito mais!",
+        "path": "/images/Acessorios/magnetsWitch.webp"
+    },
+    {
+        "name": "T-shirt Alien",
+        "price": 69.99,
+        "category": "Camisetas",
+        "description": "T-shirt Alien é uma camiseta azul com estampa divertida de alien. Ideal para quem gosta de um estilo mais divertido!",
+        "path": "/images/camisetas/TshirtAlien.webp"
+    },
+    {
+        "name": "T-shirt Cat",
+        "price": 69.99,
+        "category": "Camisetas",
+        "description": "T-shirt Cat é uma camiseta preta com estampa de gatos fazendo bruxaria. Ideal para quem gosta de um estilo mais gótico!",
+        "path": "/images/camisetas/TshirtCat.webp"
+    },
+    {
+        "name": "T-shirt Cat Caution",
+        "price": 69.99,
+        "category": "Camisetas",
+        "description": "T-shirt Cat Caution é uma camiseta preta com estampa de um gato segurando uma faca. Ideal para quem gosta de um estilo mais cyberpunk!",
+        "path": "/images/camisetas/TshirtCatCaution.webp"
+    },
+    {
+        "name": "T-shirt Chihiro",
+        "price": 69.99,
+        "category": "Camisetas",
+        "description": "T-shirt Dragon é uma camiseta azul com estampa de personagens de A Viagem de Chihiro. Ideal para quem gosta do Studio Ghibli!",
+        "path": "/images/camisetas/TshirtDragon.webp"
+    },
+    {
+        "name": "T-shirt Chihiro Feminina",
+        "price": 69.99,
+        "category": "Camisetas",
+        "description": "T-shirt Dragon é uma camiseta azul com estampa de personagens de A Viagem de Chihiro. Ideal para quem gosta do Studio Ghibli!",
+        "path": "/images/camisetas/TshirtDragonGirl.webp"
+    },
+    {
+        "name": "T-shirt Lion King",
+        "price": 69.99,
+        "category": "Camisetas",
+        "description": "T-shirt Lion King é uma camiseta marrom com estampa de personagens do Rei Leão. Ideal para quem segue um estilo vida Hakuna Matata!",
+        "path": "/images/camisetas/TshirtKingLion.webp"
+    },
+    {
+        "name": "T-shirt Kratos",
+        "price": 69.99,
+        "category": "Camisetas",
+        "description": "T-shirt Kratos é uma camiseta azul escuro com estampa do Kratos. Ideal para quem tem um estilo mais gamer!",
+        "path": "/images/camisetas/TshirtKratos.webp"
+    },
+    {
+        "name": "T-shirt Haku",
+        "price": 69.99,
+        "category": "Camisetas",
+        "description": "T-shirt Dragon é uma camiseta azul com estampa de personagens de A Viagem de Chihiro. Ideal para quem gosta do Studio Ghibli!",
+        "path": "/images/camisetas/TshirtOriental.webp"
+    },
+    {
+        "name": "T-shirt Pokemon",
+        "price": 69.99,
+        "category": "Camisetas",
+        "description": "T-shirt Pokemon é uma camiseta preta com uma estampa mais punk de pokemon. Ideal para quem gosta de um estilo mais punk e divertido ao mesmo tempo!",
+        "path": "/images/camisetas/TshirtPokemon.webp"
+    },
+    {
+        "name": "T-shirt Skull",
+        "price": 69.99,
+        "category": "Camisetas",
+        "description": "T-shirt Skull é uma camiseta preta com estampa de caveira. Ideal para quem tem um humor mais dark!",
+        "path": "/images/camisetas/TshirtSkull.webp"
+    },
+    {
+        "name": "T-shirt WeirdLoops",
+        "price": 69.99,
+        "category": "Camisetas",
+        "description": "T-shirt WeirdLoops é uma camiseta preta com estampa do filme A Noiva Cadáver. Ideal para quem gosta de um estilo mais sombrio!",
+        "path": "/images/camisetas/TshirtWeird.webp"
+    },
+    {
+        "name": "T-shirt Yoda",
+        "price": 69.99,
+        "category": "Camisetas",
+        "description": "T-shirt Yoda é uma camiseta preta com estampa do Yoda. Ideal para quem está no lado bom da força!",
+        "path": "/images/camisetas/TshirtYoda.webp"
+    },
+    {
+        "name": "T-shirt Pikachu",
+        "price": 69.99,
+        "category": "Camisetas",
+        "description": "T-shirt Pikachu é uma camiseta amarela com estampa do Pikachu. Ideal para quem ama esse ratinho amarelo!",
+        "path": "/images/camisetas/TshirtPikachu.webp"
+    },
+    {
+        "name": "T-shirt Spider Cat",
+        "price": 69.99,
+        "category": "Camisetas",
+        "description": "T-shirt Spider cat é uma camiseta preta com estampa de um gato vestido de homem aranha. Ideal para quem é fã da aranha da Marvel!",
+        "path": "/images/camisetas/TshirtSpidercat.webp"
+    },
+    {
+        "name": "T-shirt Stitch",
+        "price": 69.99,
+        "category": "Camisetas",
+        "description": "T-shirt Stitch é uma camiseta branca com colarinho vermelho e estampa do Badness Level do Stitch. Ideal para quem ama esse alienígena azul!",
+        "path": "/images/camisetas/TshirtStitch.webp"
+    },
+    {
+        "name": "Conjunto Branco",
+        "price": 99.99,
+        "category": "Conjuntos",
+        "description": "Conjunto de Camisa e Shorts branco com estampa de animais fofinhos segurando facas. Ideal para quem é fofinho e perigoso ao mesmo tempo!",
+        "path": "/images/conjuntos/ConjuntoBranco.webp"
+    },
+    {
+        "name": "Conjunto Florido",
+        "price": 99.99,
+        "category": "Conjuntos",
+        "description": "Conjunto de Camisa e Shorts pretos floridos. Ideal para quem gosta de um estilo mais romântico!",
+        "path": "/images/conjuntos/ConjuntoFlorido.webp"
+    },
+    {
+        "name": "Conjunto Rosa",
+        "price": 99.99,
+        "category": "Conjuntos",
+        "description": "Conjunto de Camisa e Shorts rosa com estampa de comidinhas. Ideal para quem é food lover!",
+        "path": "/images/conjuntos/ConjuntoRosa.webp"
+    },
+    {
+        "name": "Conjunto Roxo",
+        "price": 99.99,
+        "category": "Conjuntos",
+        "description": "Conjunto de Camisa e Shorts pretps com estampa de bruxaria em roxo. Ideal para quem adora uma magia negra!",
+        "path": "/images/conjuntos/ConjuntoRoxo.webp"
+    },
+    {
+        "name": "Conjunto Verde",
+        "price": 99.99,
+        "category": "Conjuntos",
+        "description": "Conjunto de Camisa e Shorts verde com estampa de folhagens. Ideal para quem ama a natureza!",
+        "path": "/images/conjuntos/ConjuntoVerde.webp"
+    },
+    {
+        "name": "Cropped Preto Ignorante",
+        "price": 49.99,
+        "category": "Cropped",
+        "description": "Blusa Cropped preta com estampa de um gato ignorante. Ideal para quem ama gatos e tem um humor mais dark!",
+        "path": "/images/cropped/CroppedPretoIgnorante.webp"
+    },
+    {
+        "name": "Cropped Preto Psicologo",
+        "price": 49.99,
+        "category": "Cropped",
+        "description": "Blusa Cropped preta com estampa de um gato psicólogo. Ideal para quem ama gatos e tem um humor mais dark!",
+        "path": "/images/cropped/CroppedPretoPsicologo.webp"
+    },
+    {
+        "name": "Cropped Branco",
+        "price": 49.99,
+        "category": "Cropped",
+        "description": "Blusa Cropped branca com estampa de uma versão BR do Cerberus. Ideal para quem adora um vira-latas caramelo!",
+        "path": "/images/cropped/CroppedBranco.webp"
+    },
+    {
+        "name": "Moletom Branco",
+        "price": 119.99,
+        "category": "Moletom",
+        "description": "Moletom branco com estampa de personagens de Jujusto Kaisen. Ideal para quem é um verdadeiro otaku!",
+        "path": "/images/moletom/MoletomBranco.webp"
+    },
+    {
+        "name": "Moletom Pikachu",
+        "price": 119.99,
+        "category": "Moletom",
+        "description": "Moletom amarelo com estampa do Pikachu. Ideal para quem ama esse ratinho amarelo!",
+        "path": "/images/moletom/MoletomPikachu.webp"
+    },
+    {
+        "name": "Moletom Noiva Cadaver",
+        "price": 119.99,
+        "category": "Moletom",
+        "description": "Moletom preto com estampa do filme A Noiva Cadáver. Ideal para quem gosta de um estilo mais sombrio!",
+        "path": "/images/moletom/MoletomPretoBatman.webp"
+    },
+    {
+        "name": "Moletom Preto e Amarelo",
+        "price": 119.99,
+        "category": "Moletom",
+        "description": "Moletom preto com capuz amarelo e estampa de gatos opostos. Ideal para quem tem duas personalidades totalmente opostas!",
+        "path": "/images/moletom/MoletomPretoEAmarelo.webp"
+    },
+    {
+        "name": "Moletom Exhausted",
+        "price": 119.99,
+        "category": "Moletom",
+        "description": "Moletom preto com a frase Emotionally Exhausted. Ideal para quem tem um humor mais dark!",
+        "path": "/images/moletom/MoletomPretoExhausted.webp"
+    },
+    {
+        "name": "Moletom Vermelho",
+        "price": 119.99,
+        "category": "Moletom",
+        "description": "Moletom vermelho com estampa do dragão de Mulan. Ideal para quem ama o humor sarcástico dele!",
+        "path": "/images/moletom/MoletomVermelho.webp"
+    },
+    {
+        "name": "Moletom Mistico",
+        "price": 119.99,
+        "category": "Moletom",
+        "description": "Moletom preto com estampa de uma carta de tarô de um gato místico. Ideal para quem ama gatos e um estilo mais místico!",
+        "path": "/images/moletom/MoletomPretoGato.webp"
+    }
+
+]
