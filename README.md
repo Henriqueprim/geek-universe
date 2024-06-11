@@ -1,10 +1,10 @@
 GEEK UNIVERSE
-    Vista seu universo geek!
+Vista seu universo geek!
 
-    Este é um projeto de desenvolvimento web feito como avaliação
+Este é um projeto de desenvolvimento web feito como avaliação
 final da matéria de Desenvolvimento Web em HTML5, CSS, Javascript e PHP
 do curso superior tecnólogo de Análise e Desenvolvimento de Sistemas da Estácio. 
-    O objetivo era criar um site e-commerce que atendesse aos requisitos 
+O objetivo era criar um site e-commerce que atendesse aos requisitos 
 apresentados e contemplasse as tecnologias estudadas durante o semestre.
 Para a construção do site utilizamos Next.js para criar uma aplicação React 
 com estilização em TailwindCSS. A escolha do React foi feita por ser uma
