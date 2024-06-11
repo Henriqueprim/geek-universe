@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+GEEK UNIVERSE
+    Vista seu universo geek!
 
-## Getting Started
+    Este é um projeto de desenvolvimento web feito como avaliação
+final da matéria de Desenvolvimento Web em HTML5, CSS, Javascript e PHP
+do curso superior tecnólogo de Análise e Desenvolvimento de Sistemas da Estácio. 
+    O objetivo era criar um site e-commerce que atendesse aos requisitos 
+apresentados e contemplasse as tecnologias estudadas durante o semestre.
+Para a construção do site utilizamos Next.js para criar uma aplicação React 
+com estilização em TailwindCSS. A escolha do React foi feita por ser uma
+biblioteca muito popular e que utiliza de muitos conceitos de HTML, reforçando 
+os conceitos aprendidos durante o semestre ao mesmo tempo em que aprendemos a 
+utilizar uma das bibliotecas mais populares do mercado. O TailwindCSS foi escolhido
+por ser uma biblioteca de estilização que se parece muito com o CSS puro e que 
+facilita a criação de interfaces responsivas, de novo reforçando nosso aprendizado
+e nos deixando a par das tecnologias mais atuais.
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+REQUISITOS PARA RODAR O PROJETO:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+    - Ter Node.js instalado juntamente com o npm;
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+PARA RODAR A APLICAÇÃO:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+    - Estar dentro da pasta 'geek-universe';
+    - Abrir um terminal;
+    - Instalar as dependencias com o comando 'npm i' ou 'npm install'
+    - Usar o comando 'npm run dev'
+    - Quando pronto clicar no link disponibilizado no terminal "- Local:  http://localhost:3000";
 
-## Learn More
+POSSÍVEIS ERROS:
 
-To learn more about Next.js, take a look at the following resources:
+    - Não estar com o Node ou o npm devidamente instalados e atualizados;
+    - Estar no diretório/pasta errados;
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
