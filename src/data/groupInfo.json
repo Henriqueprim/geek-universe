@@ -1,26 +1,27 @@
 [
     {
-        "name": "Henrique Salm Prim",
-        "photo": "/images/group/henrique.jpg"
+        "name": "Fabiane Ferreira de Oliveira",
+        "photo": "/images/group/Fabiane.jpg"
     },
     {
         "name": "Gustavo Nunes de Oliveira",
         "photo": "/images/group/Gustavo.jpg"
     },
     {
+        "name": "Henrique Salm Prim",
+        "photo": "/images/group/henrique.jpg"
+    },
+
+    {
         "name": "Igor Paulino Alves",
         "photo": "/images/group/Igor.jpg"
-    },
-    {
-        "name": "Kimberly Dervage",
-        "photo": "/images/group/Kimberly.jpg"
     },
     {
         "name": "Kannanda Karine Andrade",
         "photo": "/images/group/Kannanda.jpg"
     },
     {
-        "name": "Fabiane Ferreira de Oliveira",
-        "photo": "/images/group/Fabiane.jpg"
+        "name": "Kimberly Dervage",
+        "photo": "/images/group/Kimberly.jpg"
     }
 ]
